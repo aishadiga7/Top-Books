@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "718946486357",
+    "project_id": "top-books"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718946486357:android:3531d6daf22413b4",
+        "android_client_info": {
+          "package_name": "com.example.aishwarya.topbooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSx-3cTm5RlYzqqf_4qs3nRR0QOyrNOro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82162461-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

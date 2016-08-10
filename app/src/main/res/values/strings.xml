@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TopBooks</string>
+    <string name="books">Books</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="free_books">Free</string>
+    <string name="paid_books">Paid</string>
+    <string name="text_books">Text</string>
+    <string name="loading">Loading...</string>
+    <string name="rest_error">Rest Error</string>
+    <string name="something_went_wrong">Something went wrong. Please try again later.</string>
+    <string name="please_check_internet">Please check your Internet Connection</string>
+    <string name="first_tab_name">Free books screen</string>
+    <string name="second_tab_name">Paid books screen</string>
+    <string name="third_tab_name">Text Books SCreen</string>
+    <string name="splash_screen_t_racking">Top Books</string>
+    <string name="action_name_for_splash_screen">Visited</string>
+    <string name="label_for_splash_screen">Launcher</string>
+    <string name="country_name_tracking">Country name Track</string>
+    <string name="log_country_name">Log country name</string>
+    <string name="splash_screen_tracking">Splash screen track</string>
+    <string name="placeholder_when_no_amount">Get</string>
+    <string name="top_free_books">topfreeebooks</string>
+    <string name="top_paid_books">toppaidebooks</string>
+    <string name="top_text_books">toptextbooks</string>
+</resources>
